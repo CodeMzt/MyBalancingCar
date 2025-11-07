@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Documents/GitHub/MyBalancingCar/cmake-build-debug/cmake_install.cmake",
+		"E:/Documents/GitHub/MyBalancingCar/cmake-build-debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
